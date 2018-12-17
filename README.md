@@ -27,7 +27,7 @@ devtools::install_github("socialcopsdev/flyio")
 # Load the library
 library(flyio)
 ```
-If you encounter a bug, please file an issue with steps to reproduce it on Github. Please use the same for any feature requests, enhancements or suggestions.
+If you encounter a bug, please file [an issue](https://github.com/socialcopsdev/flyio/issues) with steps to reproduce it on Github. Please use the same for any feature requests, enhancements or suggestions.
 
 ### Example
 
